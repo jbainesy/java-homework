@@ -1,0 +1,63 @@
+1d
+2b wrong d - modules are both methods and classes
+3d
+
+4b
+5c - this is what I had to use correct
+6c
+
+7d
+8c wrong b
+9d
+
+10c
+11c
+
+12b
+13d
+
+14? b +=. can be used in string concatenation
+15c
+
+16d
+17a
+18b wrong c - stacks are LIFO data structures
+
+19a
+20d
+21c wrong d - doubles do not get 'promoted'
+
+22c
+23a
+24a
+
+25a
+26b
+
+27a
+28d
+
+29b
+30b
+
+31a
+32b
+33c
+
+34b wrong d - scope is the portion of a program that can refer to an entity by its simple name.
+35a
+36b
+
+37d
+
+38c
+
+39c
+40b
+
+41d
+42a
+43c
+
+44a
+45c

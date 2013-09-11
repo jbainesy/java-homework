@@ -1,0 +1,11 @@
+UML FOR Gradebook.java
+
+
+Gradebook
+________________________
+-courseName : String
+________________________
+<<constructor>> Gradebook(courseName : String)
++setCourseName(courseName : String)
++getCoursName() : String
++displayMessage()

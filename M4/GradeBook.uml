@@ -1,0 +1,12 @@
+UML DIAGRAM FOR GRADEBOOK
+MODULE 4
+
+GradeBook
+__________________
+-courseName : String
+__________________
+<<CONSTRUCTOR>> GradeBook( name : String )
++setCourseName( name : String )
++getCourseName() courseName : String
++displayMessage()
++determineClassAverage()

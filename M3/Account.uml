@@ -1,0 +1,10 @@
+UML file for Account.java
+
+Account
+_____________________________
+-balance : Double
+_____________________________
+<<constructor>> Account(initialBalance : Double)
++credit(amount : Double)
++getBalance() : Double
+

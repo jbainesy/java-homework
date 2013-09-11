@@ -1,0 +1,13 @@
+//Jarred Baines
+
+// This class is to demonstrate the output of 
+// suggested answers to question 11 in module 2
+
+class m2q11 {
+	public static void main(String[] args) {
+		System.out.println("hellois fun\rJava");
+		System.out.println('Java is fun');
+		System.out.println("\"Java is fun\"");
+		System.out.println( Java is fun );
+	}
+}

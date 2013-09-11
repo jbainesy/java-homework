@@ -1,0 +1,14 @@
+//LabelDemo.java
+
+import java.awt.BorderLayout;
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
+import javax.swing.JFrame;
+
+public class LabelDemo {
+	public static void main(String args[]) {
+	
+	}
+
+
+}// end LabelDemo class

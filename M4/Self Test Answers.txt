@@ -1,0 +1,47 @@
+Module 4 Self Test Questions
+
+1c
+2d
+3b
+4d
+5c
+6b
+7c
+8b
+9a
+10a
+11c - incorrect - b
+12c
+13a - incorrect - d
+14c
+15a
+16c
+17b
+18d - incorrect - c
+19a
+20a
+21d
+22a
+23d
+24b
+25b
+26d
+27d
+28a
+29c
+30b
+31d
+32c
+33b
+34b - incorrect - d
+35a
+primitive types
+36b
+37c
+38d
+39c
+40b
+41a
+42d
+43b
+
